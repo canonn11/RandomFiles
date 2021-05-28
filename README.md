@@ -1,8 +1,8 @@
-#Random File Name Generator
+# Random File Name Generator
 
 Simple file renamer for crawled files
 
-#Feature
+# Feature
 1. Randomly sorting file by generating random strings.
    
 2. File extension will be maintained.
