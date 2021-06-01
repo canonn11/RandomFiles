@@ -1,6 +1,6 @@
 # Random File Name Generator
 
-Simple file renamer for crawled files
+Simple file renamer for crawled files for file shuffling
 
 # Feature
 1. Randomly sorting file by generating random strings.
